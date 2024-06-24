@@ -1,0 +1,21 @@
+{
+  "name": "hplus/contract",
+  "description": "contract",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "maozihao",
+      "email": "4213509@qq.com"
+    }
+  ],
+  "require": {
+  },
+  "suggest": {
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "HPlus\\Contract\\": "src/"
+    }
+  }
+}
